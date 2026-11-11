@@ -1,0 +1,15 @@
+# Build-Ordner
+bin/
+obj/
+*.user
+*.suo
+
+# Backups & Logs
+*.bak*
+*.log
+*.tmp
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
