@@ -1,0 +1,216 @@
+# ==============================================================================
+# FAIRGROUND LIVE - EIGENE BESUCHER- & FREUNDESLISTE (CUSTOM NAMES)
+# ==============================================================================
+# Hier kannst du beliebig viele Namen von Freunden, Zuschauern oder Kirmesfans
+# zeilenweise eintragen. Diese laufen dann als echte 3D-Besucher ueber deine Kirmes
+# und uebernehmen freie Arbeitsplaetze an Kassen, Buden und Fahrgeschaeften!
+#
+# Tipps & Moeglichkeiten:
+#   Einfacher Name:       Lukas
+#   Mit Rolle/Job:        Sarah [mod]    (wird bevorzugt Kassenmitarbeiter!)
+#   Mit VIP / Sub:        Max [vip]      oder  Kevin [sub]
+#   Mit eigener Farbe:    KirmesFan #FF0055
+#   Komplett:             Chef_Reko [mod] #00FF7F
+# ==============================================================================
+
+# Schausteller & Mitarbeiter (bevorzugt an Kasse & Bude)
+Chef_Reko [mod] #00FF7F
+KassenFee_Sarah [mod] #FF1493
+ChipEinsammler_Ben [mod] #00E5FF
+SoundExpress_Alex [mod] #FFD700
+Bruch_Fan [mod] #FFA500
+
+# Stammgaeste & VIPs
+ZuckerwatteQueen [vip] #FF69B4
+BreakDance_Freak [vip] #00F2FE
+AutoscooterPro [vip] #7B2CBF
+Geisterbahn_Lover [vip] #39FF14
+Polyp_Pilot [vip] #FF3366
+TopSpin_Maniac [vip] #00D2FF
+Wellenflug_Fan [vip] #FFB703
+
+# Kirmes-Besucher & Freunde
+Lukas
+Mia
+Finn
+Emma
+Leon
+Hannah
+Noah
+Lea
+Jonas
+Emilia
+Elias
+Marie
+Paul
+Sophia
+Felix
+Anna
+Julian
+Laura
+David
+Lena
+Philipp
+Julia
+Tim
+Johanna
+Moritz
+Nele
+Simon
+Clara
+Fabian
+Lina
+Florian
+Amelie
+Maximilian
+Luisa
+Tom
+Lara
+Nico
+Maja
+Jan
+Charlotte
+Tobias
+Pia
+Marcel
+Stella
+Sebastian
+Jana
+Daniel
+Katharina
+Kevin
+Luise
+Patrick
+Franzi
+Stefan
+Melanie
+Christian
+Vanessa
+Dennis
+Alina
+Dominik
+Lisa
+Markus
+Svenja
+Andreas
+Selina
+Manuel
+Carina
+Alexander
+Celina
+Martin
+Jessica
+Oliver
+Jennifer
+Marco
+Marina
+Michael
+Sabrina
+Thomas
+Denise
+Mathias
+Annika
+Christoph
+Melina
+Sven
+Kim
+Thorsten
+Jasmin
+KirmesVlog_TV
+Riesenrad_Romantik
+Gebrannte_Mandeln_Lover
+Popcorn_Junky
+Losbude_Glueckspilz
+Currywurst_Kaiser
+Kirmes_Fotograf
+Gondel_Surfer
+Nebelmaschine_Dude
+Strobo_Lukas
+Bass_Boomer
+Rummel_Ranger
+Jahrmarkt_Junkie
+Adrenalin_Junkie
+Schausteller_Herz
+Phaenomenal_Kirmes
+Kirmes_Archiv
+Looping_Leo
+Wildwasser_Willy
+Fliegender_Teppich
+Disco_Fieber
+Kirmes_Nostalgie
+Volle_Fahrt_Voraus
+Recon_Racer
+Turbo_Timmy
+Super_Allrounder
+Magic_Moni
+Happy_Traveller
+Commander_Chris
+Rundfahr_Rudi
+Fahrkarten_Sammler
+Chips_Schnapper
+BlinkLicht_Berti
+Kirmes_Insider
+Mega_Thrill
+Scream_Queen
+Kettenflieger_Kai
+Raupenbahn_Rolf
+Wilde_Maus_Michi
+Hexentanz_Heiko
+Booster_Basti
+Airwolf_Andy
+Playball_Peter
+Insider_0815
+Kirmes_Legende
+Rummel_Kaiser
+Volksfest_Freund
+Puffer_Paula
+Schoko_Banane
+Bratwurst_Bob
+Mandel_Micha
+Kirmes_Spotter
+Volksfest_Reporter
+Kirmes_Scout
+Rummel_Romantiker
+Karussell_Koenig
+Kirmes_Liebhaber
+Freizeitpark_Fanatic
+Fahrgeschaeft_Tester
+Rund_ums_Volksfest
+Kirmes_Momente
+Rummel_Vibes
+Kirmes_Live
+Schausteller_Leben
+Fahrpult_Felix
+Buegel_Pruefer
+Fahrchip_Fritzi
+Kassen_Klaus
+Rekommandeur_Ralle
+Chip_Charly
+Kirmes_Kumpel
+Rummel_Rudi
+Volksfest_Vroni
+Kirmes_Kiki
+Rummel_Rocco
+Karussell_Karo
+Kirmes_Kalle
+Volksfest_Valentin
+Kirmes_Klara
+Rummel_Resi
+Karussell_Konrad
+Kirmes_Kaspar
+Volksfest_Vera
+Kirmes_Kuno
+Rummel_Rosi
+Karussell_Kasimir
+Kirmes_Kornelia
+Volksfest_Viktor
+Kirmes_Knut
+Rummel_Rita
+Karussell_Kurt
+Kirmes_Kirsten
+Volksfest_Vinzenz
+Kirmes_Korbinian
+Rummel_Romi
+Karussell_Kilian
+Kirmes_Kajetan
+Volksfest_Vitus
