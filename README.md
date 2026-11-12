@@ -4,11 +4,25 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y7XMy8Jduq)
 [![Release](https://img.shields.io/badge/Release-v1.4.0-brightgreen?style=for-the-badge)](https://github.com/BlackMautz/Fairground-Online-Twitch/releases/latest)
+[![Demo Video](https://img.shields.io/badge/YouTube-Gameplay%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=blu8RhyLMN4)
 [![Login Free](https://img.shields.io/badge/Twitch%20%26%20TikTok-KEIN%20LOGIN%20NÖTIG-00F2FE?style=for-the-badge&logo=tiktok&logoColor=white)](#-kein-login--kein-passwort-nötig-100-sicher)
 
 ### Verwandle deine Kirmes in ein interaktives Live-Event für Twitch & TikTok!
 **Deine Twitch- & TikTok-Zuschauer werden zu echten 3D-Parkbesuchern & Mitarbeitern auf deiner Kirmes.**  
 Sie jubeln in Fahrgeschäften mit, bedienen Kassenhäuschen, tragen echte 3D-Badges über dem Kopf und sprechen live über Sprechblasen!
+
+</div>
+
+---
+
+## 🎬 Offizielles Gameplay Demo-Video
+
+<div align="center">
+
+[![Fairground Live Demo Video](https://img.youtube.com/vi/blu8RhyLMN4/maxresdefault.jpg)](https://www.youtube.com/watch?v=blu8RhyLMN4)
+
+👉 **[Hier klicken, um das Gameplay-Demo auf YouTube anzuschauen](https://www.youtube.com/watch?v=blu8RhyLMN4)** 👈  
+*Erlebe die Mod live in Action: Kassen-Mitarbeiter, Kirmes-Zuschauer, 3D-Namensschilder und Chat-Aktionen!*
 
 </div>
 
