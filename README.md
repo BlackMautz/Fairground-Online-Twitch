@@ -37,8 +37,11 @@ Sie steigen aktiv in Fahrgeschäfte ein, jubeln in den Gondeln mit, bedienen Kas
 
 ---
 
-## ✨ Neu in diesem Update (Live-Mitfahrer, Sitzplatz-Tracking & 3D-Highlighting)
+## ✨ Neu in diesem Update (Live-Mitfahrer, Mann/Frau-Erkennung & 3D-Highlighting)
 
+* **👩/👨 Intelligente Mann- & Frau-Erkennung + Geschlechts-Wechsel (`!frau` / `!man`):**
+  * **Automatische Namens- & 3D-Modell-Zuordnung:** Die Mod erkennt automatisch weibliche und männliche Vornamen/Namen (z. B. *Julia, Sarah, Lisa, Queen* ➔ **weiblicher 3D-Charakter** / *Tim, Lukas, Max, King* ➔ **männlicher 3D-Charakter**) und weist dem Zuschauer gezielt das passende 3D-Besuchermodell auf der Kirmes zu!
+  * **Jederzeit per Chat oder Dashboard wechselbar:** Mit **`!frau`** (`!w`, `!female`) oder **`!man`** (`!m`, `!mann`) im Chat – oder per **1-Klick (`👩 Frau` / `👨 Mann`) im Live-Dashboard** – kann jeder Zuschauer jederzeit sofort zwischen einem weiblichen und männlichen Kirmes-Charakter wechseln!
 * **🎢 Live-Mitfahrer-Box („Wer sitzt gerade bei mir im Fahrgeschäft?"):**
   * Sobald du dich im Spiel in ein Steuerpult setzt (**Operator Rights aktiv**), zeigt dir das Dashboard unterhalb der Durchsage in Echtzeit **jeden einzelnen Zuschauer an, der gerade in deinem Fahrgeschäft sitzt** – inklusive **Gondel- & Sitzplatznummer** (z. B. `🎢 Gondel 2 • Sitz #5`), Namensfarbe sowie Direkt-Buttons für **🙌 Jubeln** und **📍 Radar/Highlight**!
 * **🚶 Komplette Positions- & Warteschlangen-Übersicht:**
@@ -113,7 +116,7 @@ Die Mod bringt einen eigenen kleinen Webserver mit (**http://127.0.0.1:48888**),
 * **🟣 Twitch & 🎵 TikTok Kanäle:** Direkt im Browser eintragen, wechseln oder leeren (leere Felder starten automatisch die Offline-Besucherliste).
 * **🎢 Live-Mitfahrer-Anzeige (Operator Rights):** Zeigt dir alle Zuschauer inkl. Sitzplatznummer, die gerade in deinem gesteuerten Fahrgeschäft sitzen – mit 1-Klick **🙌 Jubeln** und **📍 Highlighten**!
 * **👥 Zuschauer-Tabelle mit Live-Ortung:** Zeigt jeden Chatter mit Name, Plattform (`🎵 TikTok` vs `🟣 Twitch`), Rolle, exaktem Sitzplatz im Fahrgeschäft, Warteschlange oder nächster Attraktion.
-* **🛠️ 1-Klick Zuweisung:** Klicke bei einem Zuschauer auf `[🎟️ Kasse]`, `[🪙 Chip]`, `[🍿 Bude]` oder `[🎢 Mitfahren in...]`, um ihn sofort dorthin zuzuweisen!
+* **🛠️ 1-Klick Zuweisung & Geschlechts-Wahl:** Klicke bei einem Zuschauer auf `[🎟️ Kasse]`, `[🪙 Chip]`, `[🍿 Bude]`, `[👩 Frau]`, `[👨 Mann]` oder `[🎢 Mitfahren in...]`, um ihn sofort dorthin zuzuweisen!
 * **📍 Durch-Wände-Radar & 3D-Highlight:** Markiere einen Zuschauer – ein pulsierendes Radar-Zeichen und ein großes `★ HIER BIN ICH! ★`-Banner über seinem Kopf zeigen dir sofort, in welcher Gondel er sitzt!
 
 ---
@@ -128,7 +131,8 @@ Deine Zuschauer auf **Twitch** und **TikTok** können folgende Befehle in deinen
 | `!klatschen` | `!clap` | Klatscht begeistert Beifall für die Show oder Fahrt! |
 | `!zugabe` | `!schrei`, `!again` | Jubelt lautstark mit Schrei-Soundeffekt und fordert Zugabe! |
 | `!mitfahren [Name]` | `!gast [Name]` | Steigt gezielt in ein Fahrgeschäft ein (z.B. `!mitfahren megadance`, `!mitfahren soundexpress`, `!mitfahren riesenrad`) |
-| `!frau` / `!man` | `!w` / `!m` | Wechselt das 3D-Charaktermodell gezielt auf einen weiblichen oder männlichen Kirmes-Besucher |
+| `!frau` | `!w`, `!female`, `!weiblich` | Wechselt den eigenen 3D-Kirmes-Besucher gezielt auf ein **weibliches Charaktermodell**! *(Wird bei weiblichen Vornamen auch schon automatisch erkannt)* |
+| `!man` | `!m`, `!mann`, `!male` | Wechselt den eigenen 3D-Kirmes-Besucher gezielt auf ein **männliches Charaktermodell**! *(Wird bei männlichen Vornamen auch schon automatisch erkannt)* |
 | `!kasse` | `!kassierer` | Wechselt gezielt als Kassierer ins Kassenhäuschen |
 | `!chip` | `!sammler` | Besetzt die Fahrchip-Sammler-Platte vor dem Fahrgeschäft |
 | `!bude` | `!stand` | Verkauft Snacks & Lose in Spielbuden und Imbissen |
