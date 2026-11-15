@@ -22,6 +22,7 @@ Bruch_Fan [mod] #FFA500
 
 # Stammgaeste & VIPs (inkl. Kirmes-Easter-Eggs)
 Freizeitgestoert [vip] #FF6B00
+Csyon [vip] #FF6B00
 Achterbahn_Reiter [vip] #00E5FF
 ZuckerwatteQueen [vip] #FF69B4
 BreakDance_Freak [vip] #00F2FE
