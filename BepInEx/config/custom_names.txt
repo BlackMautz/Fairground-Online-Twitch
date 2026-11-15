@@ -20,7 +20,9 @@ ChipEinsammler_Ben [mod] #00E5FF
 SoundExpress_Alex [mod] #FFD700
 Bruch_Fan [mod] #FFA500
 
-# Stammgaeste & VIPs
+# Stammgaeste & VIPs (inkl. Kirmes-Easter-Eggs)
+Freizeitgestoert [vip] #FF6B00
+Achterbahn_Reiter [vip] #00E5FF
 ZuckerwatteQueen [vip] #FF69B4
 BreakDance_Freak [vip] #00F2FE
 AutoscooterPro [vip] #7B2CBF
